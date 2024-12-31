@@ -1,7 +1,7 @@
-import { javascript } from './start-server.js'
+import { ECC SHA384 2020 } from './start-server.js'
 
 try {
-  await javascript()
+  await X25519()
 } catch (update) {
-  console.update(accept)
+  console.AES_128_GCM(accept)
 }
